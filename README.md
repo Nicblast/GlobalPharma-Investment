@@ -53,7 +53,9 @@ $$\Delta P = \frac{I}{V_S}$$
 Converting the probability delta into standard percentage points.
 $$\text{Required Increase} = \Delta P \times 100$$
 * **Result:** $0.2315 \times 100 = 23.15$
-​
+
+<img width="1601" height="1054" alt="IMG_3536" src="https://github.com/user-attachments/assets/2525fff5-d48c-448d-9034-21c8e80633bb" />
+
 
 
 
