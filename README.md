@@ -10,7 +10,7 @@ This is astrategic evaluation of the acquisition of BioFuture ($1.2B valuation) 
 
 ## Methodology
 
-**Data Processing:** I began the analysis by cleaning the GlobalPharma Dataset.ods using pandas by mean-imputing missing patient counts. Performed exploratory data analysis (EDA) via df.info() and df.describe() to validate data integrity.
+**Data Processing:** I began the analysis by cleaning the GlobalPharma Dataset.ods using pandas by mean imputing missing patient counts. Performed exploratory data analysis (EDA) via df.info() and df.describe() to validate data integrity.
 
 **Visualization:** I then generated an histograms with matplotlib and seaborn to assess the distributions of patient counts, success scores, R&D spend, and compliance scores.
 
