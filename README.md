@@ -16,7 +16,7 @@ This is astrategic evaluation of the acquisition of BioFuture ($1.2B valuation) 
 
 **Financial Modeling:** Before automation I perfomed manual calculations. I calculated the drug's Current Expected Value using baseline success probabilities and drug market value.
 
-**Optimization:** I finally conducted a Break-Even Analysis to determine the exact Phase II success rate increase required to offset the $150M additional investment.
+**Optimization:** I finally conducted a Break Even Analysis to determine the exact Phase II success rate increase required to offset the $150M additional investment.
 
 
 ## Strategic Investment Analysis
@@ -61,7 +61,7 @@ $$\text{Required Increase} = \Delta P \times 100$$
 
 * **Exploratory Diagnostic** : I used a df.describe() and df.info() so we could validate data integrity and structural consistency. To understand operational trends, I generated histograms for R&D spending and compliance scores, which allowed me to identify the baseline volatility of the trial phases.
 
-* **Financial Valuation and Optimization** : The core model used a serial probability chain (Phase II, Phase III, and Regulatory success) to establish the drug's current Expected Value (EV). We then conducted a break-even analysis to find the "Hurdle" the point where the $150M investment cost is neutralized by the increased probability of reaching a $1.2B market success.
+* **Financial Valuation and Optimization** : The core model used a serial probability chain (Phase II, Phase III, and Regulatory success) to establish the drug's current Expected Value (EV). We then conducted a break even analysis to find the defined "Hurdle" or the point where the $150M investment cost is neutralized by the increased probability of reaching a $1.2B market success.
 
 * **Decision Synthesis** : A comparative bar plot was finally created to visualize the gap between the current success rate and the required target. This provides a clear benchmark for leadership to assess whether the proposed capital injection is likely to yield a positive return.
 
@@ -73,7 +73,7 @@ $$\text{Required Increase} = \Delta P \times 100$$
 
 The decision to commit additional capital revolves around the concept of Expected Value (EV). Currently, the drug’s potential market value must be discounted by the cumulative risks of three distinct trial phases. At current success probabilities, the asset represents a value of $259.2M.
 
-To justify an additional $150M investment, the capital must act as incentive to significantly improve the probability of passing the first major hurdle (Phase II). From a shareholder perspective, this investment is only accretive if the resulting increase in success odds exceeds the cost of the capital deployed. Our modeling identifies the specific performance delta required to move from a "value neutral" state to a "value adding" state.
+To justify an additional $150M investment, the capital must act as incentive to significantly improve the probability of passing the first major obstacle (Phase II). From a shareholder perspective, this investment is only accretive if the resulting increase in success odds exceeds the cost of the capital deployed. Our modeling identifies the specific performance delta required to move from a "value neutral" state to a "value adding" state.
 
 
 
