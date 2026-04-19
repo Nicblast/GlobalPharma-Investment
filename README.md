@@ -1,6 +1,6 @@
 ## Project BioFuture: R&D Acceleration & Acquisition Valuation
 
-**Executive Overview**
+**Executive Summary**
 
 This is astrategic evaluation of the acquisition of BioFuture ($1.2B valuation) and the financial viability of a $150M investment to accelerate Phase II clinical trials. This analysis bridges clinical performance, financial modeling, and regulatory risk.
 
