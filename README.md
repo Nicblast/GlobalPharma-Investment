@@ -14,7 +14,7 @@ This is astrategic evaluation of the acquisition of BioFuture ($1.2B valuation) 
 
 **Visualization:** I then generated an histograms with matplotlib and seaborn to assess the distributions of patient counts, success scores, R&D spend, and compliance scores.
 
-**Financial Modeling:** Before automation I perfomed manual calculation. I calculated the drug's Current Expected Value using baseline success probabilities and drug market value.
+**Financial Modeling:** Before automation I perfomed manual calculations. I calculated the drug's Current Expected Value using baseline success probabilities and drug market value.
 
 **Optimization:** I finally conducted a Break-Even Analysis to determine the exact Phase II success rate increase required to offset the $150M additional investment.
 
