@@ -4,6 +4,10 @@
 
 This is astrategic evaluation of the acquisition of BioFuture ($1.2B valuation) and the financial viability of a $150M investment to accelerate Phase II clinical trials. This analysis bridges clinical performance, financial modeling, and regulatory risk.
 
+<img width="1693" height="671" alt="IMG_3549" src="https://github.com/user-attachments/assets/a6fccc73-0e35-4a82-b815-223f3c79b61c" />
+
+
+
 ## Methodology
 
 **Data Processing:** I began the analysis by cleaning the GlobalPharma Dataset.ods using pandas by mean-imputing missing patient counts. Performed exploratory data analysis (EDA) via df.info() and df.describe() to validate data integrity.
